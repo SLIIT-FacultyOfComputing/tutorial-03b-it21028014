@@ -1,0 +1,1 @@
+Input the length : Input the width : Length : 6, Width  : 7
